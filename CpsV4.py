@@ -80,7 +80,7 @@ Down.pack()
 Number.bind("<Enter>", Background)
 Number.bind("<Leave>", Color)
 Number.bind("<Double-Button>", DoubleClickEvent)
-root.bind("<space>", SpaceB) 
+root.bind("<e>", SpaceB) 
 root.bind("<Up>", UpB) and root.bind("<+>", UpB)
 root.bind("<Down>", DownB) and root.bind("-", DownB)
 
